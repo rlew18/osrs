@@ -1,0 +1,8 @@
+import pyautogui
+import time
+
+print("Press Ctrl+C to stop the script.")
+while True:
+    x, y = pyautogui.position()
+    print(f"Current mouse coordinates: x={x}, y={y}")
+    time.sleep(3)
