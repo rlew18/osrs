@@ -1,0 +1,2 @@
+# osrs
+osrs botting scripts
